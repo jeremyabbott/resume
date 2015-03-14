@@ -1,14 +1,14 @@
 {
-  "name": "Steven-Resume",
+  "name": "Jeremy-Resume",
   "version": "0.0.0",
-  "description": "Azure TED Continous Integration Demo",
+  "description": "Jeremy Abbott's resume.",
   "main": "app.js",
   "author": {
-    "name": "sedouard",
+    "name": "Jeremy Abbott",
     "email": ""
   },
   "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html"
+	"test": "node ./node_modules/resume-cli/index.js export index -f html --theme slick"
   },
   "dependencies": {
     "resume-cli": "^0.3.10"
