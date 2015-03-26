@@ -123,21 +123,21 @@
       ]
     },
     {
-      "name": "SQL Server",
-      "level": "Intermediate",
-      "keywords": [
-        "Design",
-        "Query Optimization",
-        "Performance"
-      ]
-    },
-    {
       "name": "Web Development",
       "level": "Advanced",
       "keywords": [
         "HTML",
         "CSS",
         "JavaScript"
+      ]
+    },
+    {
+      "name": "SQL Server",
+      "level": "Intermediate",
+      "keywords": [
+        "Design",
+        "Query Optimization",
+        "Performance"
       ]
     },
     {
@@ -155,7 +155,7 @@
       "keywords": [
         "Knockout",
         "RequireJS",
-        "StructureMap",
+         "StructureMap",
         "AutoMapper",
         "TeamCity",
         "Octopus Deploy",
