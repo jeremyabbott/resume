@@ -5,18 +5,13 @@
     "picture": "http://www.gravatar.com/avatar/d2087702a492be991c18b4dc0fed20d1.png",
     "email": "jeremymabbott@gmail.com",
     "website": "http://jeremyabbott.github.io",
-    "summary": "I am a project architect for Praeses. When I'm not recruiting and mentoring new developers I'm creating maintainable solutions to solve customer problems.",
+    "summary": "I'm a project architect/senior developer who is well versed in the Microsoft .NET stack. My passions include developing clean, maintainable software, and recruiting/training new team members.",
     "location": {
       "city": "Shreveport",
       "countryCode": "US",
       "region": "Louisiana"
     },
     "profiles": [
-      {
-        "network": "Resume Source",
-        "url": "http://github.com/jeremyabbott/resume",
-        "username": "This Resume is built from this Github Repo"
-      },
       {
         "network": "Twitter",
         "username": "mrjabbott",
@@ -41,9 +36,8 @@
         "Architected and facilated implementation of REST API for working with regulated objects using ASP.NET Web API",
         "Wrote new utilities for client-side dynamic form/field generation using JavaScript/Knockout/jQuery",
         "Designed new client-side architecture for dynamic forms engine with cross-field validation based on a custom DSL",
-        "Won semi-annual science fair for route-optimized work planning POC",
         "Coordinate team training and budget",
-        "Recruting representative at regional developer conferences"
+        "Recruiting representative at regional developer conferences"
       ]
     },
     {
@@ -57,7 +51,6 @@
         "Lead the rollout of 7 new customers onto regulatory object platform",
         "Laid out repeatable pattern for migrating customer data",
         "Trained new developers on the core functionality and business rules",
-        "Contributed to database standards that contributed to database consistency",
         "Designed and implemented REST API for creating data-driven Word documents and storing them in Amazon using ASP.NET Web API"
       ]
     },
@@ -113,7 +106,7 @@
   ],
   "awards": [
     {
-      "name": "JO Science Fair - First Place",
+      "title": "JO Science Fair - First Place",
       "date": "2013-09-26",
       "awarder": "Praeses/Jurisdiction Online",
       "summary": "Awarded to project with the highest score determined by team member votes."
@@ -121,54 +114,30 @@
   ],
   "skills": [
     {
-      "name": "C# and .NET",
+      "name": ".NET (C#)",
       "level": "Advanced",
       "keywords": [
-        "C#",
-        "Dependency Injection/Inversion of Control",
-        "SOA",
-        "Entity Framework"
+        "MCSD: Web Applications",
+        "ASP.NET MVC",
+        "ASP.NET Web API"
       ]
     },
     {
-      "name": "SQL and SQL Server",
+      "name": "SQL Server",
       "level": "Intermediate",
       "keywords": [
-        "SQL",
-        "SSMS",
+        "Design",
+        "Query Optimization",
         "Performance"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "JavaScript",
-        "Knockout",
-        "APIs"
       ]
     },
     {
       "name": "Web Development",
       "level": "Advanced",
       "keywords": [
-        "ASP.NET MVC",
-        "ASP.NET Web API",
-        "OAuth2"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Git"
-      ]
-    },
-    {
-      "name": "F#",
-      "level": "Beginner",
-      "keywords": [
-        "F#"
+        "HTML",
+        "CSS",
+        "JavaScript"
       ]
     },
     {
@@ -177,15 +146,31 @@
       "keywords": [
         "MVVM",
         "Forms",
-        "iOS",
-        "Android"
+        "iOS"
+      ]
+    },
+    {
+      "name": "Frameworks/Tools",
+      "level": "Intermediate",
+      "keywords": [
+        "Knockout",
+        "RequireJS",
+        "StructureMap",
+        "AutoMapper",
+        "TeamCity",
+        "Octopus Deploy",
+        "FAKE (F# Make)"
+      ]
+    },
+    {
+      "name": "Misc",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "F#",
+        "Continuous Integration/Deployment"
       ]
     }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
+    
   ]
 }
