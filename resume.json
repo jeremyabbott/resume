@@ -32,12 +32,13 @@
          "startDate":"2012-09-17",
          "summary":"Responsible for designing software that conforms to best patterns and practices and ensuring that the resulting implementation is clean, maintainable, and extensible.",
          "highlights":[
-            "Co-architcted new hiring practices which focus on writing code instead of mindless word problems",
-            "Architected and facilated implementation of REST API for working with regulated objects using ASP.NET Web API",
-            "Wrote new utilities for client-side dynamic form/field generation using JavaScript/Knockout/jQuery",
-            "Designed new client-side architecture for dynamic forms engine with cross-field validation based on a custom DSL",
-            "Coordinate team training and budget",
-            "Recruiting representative at regional developer conferences"
+            "Designed and implemented new hiring process that emphasizes practical code exercises and collaboration.
+            Through this process we've weeded out candidates who had really good resumes and phone screens, but incredibly poor practical programming skills.",
+            "Rewrote legacy VB6/classic ASP modules for mission critical product features to use a RESTful web API so that we could reuse the business logic across clients.",
+            "Designed a client-side presentation layer using Knockout for easily rendering a page of forms and fields. Originally developers had to manually configure collection objects used to render HTML elements.
+            We abstracted this out into components that can be reused across the application.",
+            "Extended our existing form/field engine to allow for dynamic cross-field validation using a DSL that allows us to write semantic validation rules.",
+            "Training"
          ]
       },
       {
@@ -53,35 +54,9 @@
             "Trained new developers on the core functionality and business rules",
             "Designed and implemented REST API for creating data-driven Word documents and storing them in Amazon using ASP.NET Web API"
          ]
-      },
-      {
-         "company":"Praeses",
-         "position":"Software Developer Intern",
-         "website":"http://www.praeses.com",
-         "startDate":"2006-09-17",
-         "endDate":"2008-05-01",
-         "summary":"Acquired invaluable professional software engineering experience while designing and implementing an internal customer dashboard.",
-         "highlights":[
-            "Wrote standards for designing and implementing reports in SQL Server Reporting Services",
-            "Designed and implemented internal metrics dashboard and reporting suite",
-            "Rewrote stored procedures to support redesigned customer workflow"
-         ]
       }
    ],
    "volunteer":[
-      {
-         "organization":"PACE",
-         "position":"Vice President/President",
-         "website":"http://pacelouisana.org",
-         "startDate":"2008-02-01",
-         "summary":"Executive team member for regional LGBT advocacy organization.",
-         "highlights":[
-            "Executed the highest attended gay and lesbian film festival in Shreveport's history",
-            "Worked on the Be Fair Shreveport campaign which resulted in Shreveport adopting a city-wide employment non-discrimination ammendment (ENDA)",
-            "Executed the re-launch of Shreveport's LGBT pride festival",
-            "Spoke before state senate committee regarding the need for an LGBT ENDA"
-         ]
-      },
       {
          "organization":"Red River .NET User Group",
          "position":"Co-Leader",
@@ -102,14 +77,6 @@
          "startDate":"2004-08-16",
          "endDate":"2008-05-14",
          "gpa":"3.5"
-      }
-   ],
-   "awards":[
-      {
-         "title":"JO Science Fair - First Place",
-         "date":"2013-09-26",
-         "awarder":"Praeses/Jurisdiction Online",
-         "summary":"Awarded to project with the highest score determined by team member votes."
       }
    ],
    "skills":[
