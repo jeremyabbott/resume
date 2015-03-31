@@ -32,11 +32,13 @@
          "startDate":"2012-09-17",
          "summary":"Responsible for designing software that conforms to best patterns and practices and ensuring that the resulting implementation is clean, maintainable, and extensible.",
          "highlights":[
-            "Designed and implemented new hiring process that emphasizes practical code exercises and collaboration. The quality of our new hires as a result of this process has saved us both time and money.",
-            "Architected and facilated implementation of REST API for working with regulated objects using ASP.NET Web API.",
-            "Wrote new utilities for client-side dynamic form/field generation using JavaScript/Knockout/jQuery.",
-            "Designed new client-side architecture for dynamic forms engine with cross-field validation based on a custom DSL.",
-            "Coordinate training developer training schedule and budget."
+            "Designed and implemented new hiring process that emphasizes practical code exercises and collaboration.
+            Through this process we've weeded out candidates who had really good resumes and phone screens, but incredibly poor practical programming skills.",
+            "Rewrote legacy VB6/classic ASP modules for mission critical product features to use a RESTful web API so that we could reuse the business logic across clients.",
+            "Designed a client-side presentation layer using Knockout for easily rendering a page of forms and fields. Originally developers had to manually configure collection objects used to render HTML elements.
+            We abstracted this out into components that can be reused across the application.",
+            "Extended our existing form/field engine to allow for dynamic cross-field validation using a DSL that allows us to write semantic validation rules.",
+            "Training"
          ]
       },
       {
@@ -47,40 +49,14 @@
          "endDate":"2012-09-16",
          "summary":"Helped customers solve business problems by analyzing their needs and ensuring the timely delivery of qualify software.",
          "highlights":[
-            "Lead the rollout of 7 new customers onto regulatory object platform.",
-            "Laid out repeatable pattern for migrating customer data.",
-            "Trained new developers on the core functionality and business rules.",
-            "Designed and implemented REST API for creating data-driven Word documents and storing them in Amazon using ASP.NET Web API."
-         ]
-      },
-      {
-         "company":"Praeses",
-         "position":"Software Developer Intern",
-         "website":"http://www.praeses.com",
-         "startDate":"2006-09-17",
-         "endDate":"2008-05-01",
-         "summary":"Acquired invaluable professional software engineering experience while designing and implementing an internal customer dashboard.",
-         "highlights":[
-            "Wrote standards for designing and implementing reports in SQL Server Reporting Services.",
-            "Designed and implemented internal metrics dashboard and reporting suite.",
-            "Rewrote stored procedures to support redesigned customer workflow."
+            "Lead the rollout of 7 new customers onto regulatory object platform",
+            "Laid out repeatable pattern for migrating customer data",
+            "Trained new developers on the core functionality and business rules",
+            "Designed and implemented REST API for creating data-driven Word documents and storing them in Amazon using ASP.NET Web API"
          ]
       }
    ],
    "volunteer":[
-      {
-         "organization":"PACE",
-         "position":"Vice President/President",
-         "website":"http://pacelouisana.org",
-         "startDate":"2008-02-01",
-         "summary":"Executive team member for regional LGBT advocacy organization.",
-         "highlights":[
-            "Executed the highest attended gay and lesbian film festival in Shreveport's history.",
-            "Worked on the Be Fair Shreveport campaign which resulted in Shreveport adopting a city-wide employment non-discrimination ammendment (ENDA).",
-            "Executed the re-launch of Shreveport's LGBT pride festival.",
-            "Spoke before state senate committee regarding the need for an LGBT ENDA."
-         ]
-      },
       {
          "organization":"Red River .NET User Group",
          "position":"Co-Leader",
@@ -89,7 +65,7 @@
          "summary":"Help drive attendance, speakers and topics, and foster developer community.",
          "highlights":[
             "Presented on F# to a full house!",
-            "Pizza/drink delivery, which is imperative to a successful meetup of software engineers."
+            "Pizza/drink delivery, which is imperative to a successful meetup of software engineers"
          ]
       }
    ],
@@ -101,14 +77,6 @@
          "startDate":"2004-08-16",
          "endDate":"2008-05-14",
          "gpa":"3.5"
-      }
-   ],
-   "awards":[
-      {
-         "title":"JO Science Fair - First Place",
-         "date":"2013-09-26",
-         "awarder":"Praeses/Jurisdiction Online",
-         "summary":"Awarded to project with the highest score determined by team member votes."
       }
    ],
    "skills":[
