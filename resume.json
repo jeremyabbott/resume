@@ -2,10 +2,10 @@
    "basics":{
       "name":"Jeremy Abbott",
       "label":"Software Developer",
-      "picture":"http://www.gravatar.com/avatar/d2087702a492be991c18b4dc0fed20d1.png",
+      "picture":"http://www.gravatar.com/avatar/d2087702a492be991c18b4dc0fed20d1.png?s=100",
       "email":"jeremymabbott@gmail.com",
       "website":"http://jeremyabbott.github.io",
-      "summary":"I'm a project architect/senior developer who is well versed in the Microsoft .NET stack. My passions include developing clean, maintainable software, and recruiting/training new team members.",
+      "summary":"I'm a project architect (senior engineer) who is well versed in the Microsoft .NET stack. My passions include developing clean, maintainable code, learning F#, and recruiting/training new team members.",
       "location":{
          "city":"Shreveport",
          "countryCode":"US",
@@ -27,16 +27,16 @@
    "work":[
       {
          "company":"Praeses",
-         "position":"Project Architect",
+         "position":"Project Architect/Senior Engineer",
          "website":"http://www.praeses.com",
          "startDate":"2012-09-17",
-         "summary":"Responsible for designing software that conforms to best patterns and practices and ensuring that the resulting implementation is clean, maintainable, and extensible.",
+         "summary":"As project architect I'm responsible for ensuring that new functionality not only meets customer requirements, but that it also contributes to the architectural roadmap.",
          "highlights":[
-            "Designed and implemented new hiring process that emphasizes practical code exercises and collaboration. The quality of our new hires as a result of this process has saved us both time and money.",
-            "Architected and facilated implementation of REST API for working with regulated objects using ASP.NET Web API.",
+            "Designed and implemented new hiring process that emphasizes practical code exercises and collaboration. The caiber of our development team has increased tremendously as a result.",
+            "Lead the team responsible for migrating legacy (VB6 & ASP) code to take advantage of lightweight web APIs. The new APIs are accessible by multiple clients, both ASP .NET MVC and iOS.",
             "Wrote new utilities for client-side dynamic form/field generation using JavaScript/Knockout/jQuery.",
-            "Designed new client-side architecture for dynamic forms engine with cross-field validation based on a custom DSL.",
-            "Coordinate training developer training schedule and budget."
+            "Designed new client-side architecture for dynamic forms engine with cross-field validation based on a custom DSL. Analysts can configure customer data through an administrative UI. Previously these updates were made via SQL scripts.",
+            "Empowered developers to design their own training plans while also providing guidance for overall team training."
          ]
       },
       {
@@ -45,11 +45,11 @@
          "website":"http://www.praeses.com/",
          "startDate":"2008-05-01",
          "endDate":"2012-09-16",
-         "summary":"Helped customers solve business problems by analyzing their needs and ensuring the timely delivery of qualify software.",
+         "summary":"Onboarded new customers onto platform and served as an interface between customers and development team.",
          "highlights":[
             "Lead the rollout of 7 new customers onto regulatory object platform.",
-            "Laid out repeatable pattern for migrating customer data.",
-            "Trained new developers on the core functionality and business rules.",
+            "Designed repeatable pattern (ETL) for migrating customer data.",
+            "Trained new developers on the core platform functionality and business rules.",
             "Designed and implemented REST API for creating data-driven Word documents and storing them in Amazon using ASP.NET Web API."
          ]
       },
@@ -67,32 +67,6 @@
          ]
       }
    ],
-   "volunteer":[
-      {
-         "organization":"PACE",
-         "position":"Vice President/President",
-         "website":"http://pacelouisana.org",
-         "startDate":"2008-02-01",
-         "summary":"Executive team member for regional LGBT advocacy organization.",
-         "highlights":[
-            "Executed the highest attended gay and lesbian film festival in Shreveport's history.",
-            "Worked on the Be Fair Shreveport campaign which resulted in Shreveport adopting a city-wide employment non-discrimination ammendment (ENDA).",
-            "Executed the re-launch of Shreveport's LGBT pride festival.",
-            "Spoke before state senate committee regarding the need for an LGBT ENDA."
-         ]
-      },
-      {
-         "organization":"Red River .NET User Group",
-         "position":"Co-Leader",
-         "website":"http://rrdnug.com",
-         "startDate":"2014-09-01",
-         "summary":"Help drive attendance, speakers and topics, and foster developer community.",
-         "highlights":[
-            "Presented on F# to a full house!",
-            "Pizza/drink delivery, which is imperative to a successful meetup of software engineers."
-         ]
-      }
-   ],
    "education":[
       {
          "institution":"Louisiana State University Shreveport",
@@ -101,14 +75,6 @@
          "startDate":"2004-08-16",
          "endDate":"2008-05-14",
          "gpa":"3.5"
-      }
-   ],
-   "awards":[
-      {
-         "title":"JO Science Fair - First Place",
-         "date":"2013-09-26",
-         "awarder":"Praeses/Jurisdiction Online",
-         "summary":"Awarded to project with the highest score determined by team member votes."
       }
    ],
    "skills":[
