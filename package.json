@@ -8,7 +8,7 @@
     "email": ""
   },
   "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html --theme eloquent"
+	"test": "node ./node_modules/resume-cli/index.js export index -f html --theme paper"
   },
   "dependencies": {
     "resume-cli": "^0.3.10"

@@ -18,9 +18,9 @@
             "url":"http://twitter.com/mrjabbott"
          },
          {
-            "network":"Github",
+            "network":"GitHub",
             "username":"jeremyabbott",
-            "url":"https://github.com/jeremymabbott"
+            "url":"https://github.com/jeremyabbott"
          }
       ]
    },
@@ -65,16 +65,6 @@
             "Designed and implemented internal metrics dashboard and reporting suite.",
             "Rewrote stored procedures to support redesigned customer workflow."
          ]
-      }
-   ],
-   "education":[
-      {
-         "institution":"Louisiana State University Shreveport",
-         "area":"Computer Science",
-         "studyType":"Bachelor",
-         "startDate":"2004-08-16",
-         "endDate":"2008-05-14",
-         "gpa":"3.5"
       }
    ],
    "skills":[
@@ -135,6 +125,16 @@
             "F#",
             "Continuous Integration/Deployment"
          ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Louisiana State University Shreveport",
+         "area":"Computer Science",
+         "studyType":"Bachelor",
+         "startDate":"2004-08-16",
+         "endDate":"2008-05-14",
+         "gpa":"3.5"
       }
    ]
 }
