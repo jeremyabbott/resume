@@ -5,7 +5,7 @@
       "picture":"http://www.gravatar.com/avatar/d2087702a492be991c18b4dc0fed20d1.png?s=100",
       "email":"jeremymabbott@gmail.com",
       "website":"http://jeremyabbott.github.io",
-      "summary":"I'm a project architect (senior engineer) who is well versed in the Microsoft .NET stack. My passions include developing clean, maintainable code, learning F#, and recruiting/training new team members.",
+      "summary":"I'm a solution architect (software engineer manager) who is well versed in the Microsoft .NET stack. My passions include developing clean, maintainable code, learning F#, and recruiting/training new team members.",
       "location":{
          "city":"Shreveport",
          "countryCode":"US",
@@ -25,6 +25,20 @@
       ]
    },
    "work":[
+      {
+         "company":"Praeses",
+         "position":"Solution Architect/Software Engineer Manager",
+         "website":"http://www.praeses.com",
+         "startDate":"2016-06-01",
+         "summary":"As solution architect I'm responsible for both managing a team of 30 developers, and guiding the overall architecture of the Jurisdiction Online product.",
+         "highlights":[
+            "Created a banded pay scale in order to standardize developer salaries.",
+            "Oversaw the modernization of Jurisdiction Online's HTML so that it could run in all browsers",
+            "Implemented a solution that allowed legacy applications to run in 64-bit mode.",
+            "Redesigned the organizational SDLC to include a comprehensive QA process.",
+            "Introduced a remote-friendly culture to help engage remote engineers."
+         ]
+      },
       {
          "company":"Praeses",
          "position":"Project Architect/Senior Engineer",
@@ -109,7 +123,6 @@
          "level":"Intermediate",
          "keywords":[
             "Knockout",
-            "RequireJS",
             "StructureMap",
             "AutoMapper",
             "TeamCity",
