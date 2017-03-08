@@ -7,9 +7,9 @@
       "website":"http://jeremyabbott.github.io",
       "summary":"I'm a solution architect (software engineer manager) who is well versed in the Microsoft .NET stack. My passions include developing clean, maintainable code, learning F#, and recruiting/training new team members.",
       "location":{
-         "city":"Shreveport",
+         "city":"Portland",
          "countryCode":"US",
-         "region":"Louisiana"
+         "region":"Oregon"
       },
       "profiles":[
          {
@@ -138,7 +138,8 @@
          "keywords":[
             "Git",
             "F#",
-            "Continuous Integration/Deployment"
+            "Continuous Integration/Deployment",
+            "Functional Programming"
          ]
       }
    ],
